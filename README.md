@@ -1,4 +1,4 @@
-#WeRateDogs Data Wrangling and Analysis
+# WeRateDogs Data Wrangling and Analysis
 This is a Data Wrangling and Analysis project completed as part of the Data Analyst Nano Degree program. The dataset used for this project is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. This Twitter account rates people's dogs with a humorous comment about the dog.
 
 The data wrangling process was divided into three stages:
